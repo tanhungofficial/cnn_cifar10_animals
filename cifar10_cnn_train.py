@@ -1,8 +1,7 @@
 #***************************************************************
-#------  NGUYEN TAN HUNG    MSSV: 16141175  --------------------
-#------  NGUYEN MINH TUAN   MSSV: 16141330  --------------------
-#------  PHAM VAN LONG      MSSV: 16141194  --------------------
-#------  DAO VAN BANG       MSSV: 16141113  --------------------
+#@Project:  Using CNN to classify animals in cifar10 database---
+#@Date:     12/2019
+#@Author:   NGUYEN TAN HUNG    MSSV: 16141175  -----------------
 #***************************************************************
 
 import  os
